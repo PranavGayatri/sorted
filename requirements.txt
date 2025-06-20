@@ -1,0 +1,7 @@
+flask
+pandas
+PyMuPDF
+python-docx
+werkzeug
+email
+imaplib2
